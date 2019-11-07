@@ -6,17 +6,16 @@ import sys, re
 import argparse, json
 import random
 from operator import itemgetter
-from nltk.metrics.distance import edit_distance
 from fuzzywuzzy import fuzz
-
+from textdistance import jaro_winkler
+from string import ascii_lowercase
 
 MODEL = './cv/Fort1cp_440000.t7'
-FILTER = './Fort1.json'
+DEFAULT_CHARS = ' abcdefghijklmnopqrstuvwxyz01234567890():;.-'
 SAMPLE = 1000
 TEMP = 0.5
-DISTANCE = 100
-WEIGHT1 = 10
-WEIGHT2 = 0.01
+DISTANCE = 500
+DECAY = .2
 REPEAT = 5
 BACKTRACK = 20
 LENGTH_TARGET = 5000
@@ -33,52 +32,48 @@ def load_tokens(tfile):
         jstokens = json.load(tfh)
         return jstokens['token_to_idx']
 
+def default_tokens():
+    return { c:1 for c in DEFAULT_CHARS }
+
 def token_filter(f, text):
     return ''.join([c for c in text if c in f])
 
-def next_target_word(model, seed):
+def next_target_word(model, seed, debug):
     k = REPEAT
     while k:
         text = torchrnn.run_sample(model, TEMP, seed, SAMPLE).decode('utf-8')
         text = text[len(seed):]
+        if debug:
+            print("[RNN] " + text[:80])
         words = text.split()
         if words:
             return words[0]
         k -= 1
-    return next_target_word(model, "")
+    return next_target_word(model, "", debug)
 
 
-def match_edit_distance(i, w1, w2):
-    return edit_distance(w1, w2)
+
+def decay(i):
+    return 1 + i * -DECAY / DISTANCE
 
 
-def match_weight_edit_distance(i, w1, w2):
-    return (i + WEIGHT1) * WEIGHT2 * edit_distance(w1, w2)
+def matcher(i, w1, w2):
+    return decay(i) * jaro_winkler(w1, w2)
 
 
-def match_fuzzy(i, w1, w2):
-    return (i + WEIGHT1) * WEIGHT2 * fuzz.ratio(w1, w2)
 
 
-def match_headfirst(i, w1, w2):
-    print(w1, w2)
-    for c1, c2 in zip(w1.lower(), w2.lower()):
-        if c1 == c2:
-            m += 1
-        else:
-            break
-    return m / len(w1)
-
-
-def find_next_match(primary, target):
+def find_next_match(primary, target, debug):
     r = range(min(len(primary), DISTANCE))
-    words = [ (i, primary[i], match_fuzzy(i, target, primary[i])) for i in r ]
+    words = [ (i, primary[i], matcher(i, target, primary[i])) for i in r ]
     words.sort(key=itemgetter(2), reverse=True)
+    if debug:
+        print(words[:8])
     ( j, match, value ) = words[0]
     k = j + 1
     return j, match, primary[k:]
 
-def excavate(primary, model, tokens):
+def excavate(primary, model, tokens, lines, debug):
     idx = 0
     results = []
     line = ''
@@ -86,17 +81,28 @@ def excavate(primary, model, tokens):
         seed = ' '.join(results[-BACKTRACK:])
         if tokens:
             seed = token_filter(tokens, seed)
-        word = next_target_word(model, seed)
-        ( i, match, primary ) = find_next_match(primary, word)
+        if debug:
+            print("[SEED] " + seed)
+        word = next_target_word(model, seed, debug)
+        ( i, match, primary ) = find_next_match(primary, word, debug)
         idx += i + 1
         prev = match
         results.append(match)
-        if line:
-            line += ' '
-        line += match
-        if len(line) > 65:
-            print("[{}] {}".format(idx, line), flush=True)
-            line = ''
+        if lines:
+            if line:
+                line += ' '
+            line += match
+            if len(line) > 65:
+                if debug:
+                    print("[{}] {}".format(idx, line), flush=True)
+                else:
+                    print(line, flush=True)
+                line = ''
+        else:
+            if debug:
+                print("{} -> {}".format(word, match))
+            else:
+                print(word)
     return results
 
 
@@ -107,6 +113,8 @@ if __name__ == '__main__':
     parser.add_argument("-m", "--model", type=str, default=MODEL, help="Model")
     parser.add_argument("-t", "--tokens", type=str, default='', help="Token index")
     parser.add_argument("-p", "--primary", type=str, help="Primary text")
+    parser.add_argument("-d", "--debug", action='store_true', help="Print debugging output")
+    parser.add_argument("-l", "--lines", action='store_true', help="Print lines, not words")
 
     args = parser.parse_args()
 
@@ -115,5 +123,17 @@ if __name__ == '__main__':
     if args.tokens:
         tokens = load_tokens(args.tokens)
     else:
-        tokens = None
-    results = excavate(primary, args.model, tokens)
+        tokens = default_tokens()
+
+    params = {
+        'generated_by': 'excavate.py',
+        'primary': args.primary,
+        'tokens': args.tokens,
+        'model': args.model,
+        'distance': DISTANCE,
+        'decay': DECAY,
+    }
+
+    print(json.dumps(params, indent=4), flush=True)
+
+    results = excavate(primary, args.model, tokens, args.lines, args.debug)

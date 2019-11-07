@@ -1,0 +1,776 @@
+[SEED] 
+[RNN] --perturbation--or to be a whole, and with
+which the chemists have been a hoax 
+[(7, 'that,', 0.5682777777777778), (4, 'it', 0.5081481481481481), (9, 'their', 0.48457407407407405), (22, 'we', 0.46148148148148144), (11, 'ending', 0.45499999999999996), (25, 'to', 0.45370370370370366), (8, 'notwithstanding', 0.45155555555555554), (29, 'to', 0.4433333333333333)]
+--perturbation--or -> that,
+[SEED] that,
+[RNN]  of most of
+the size of the course of a man of positivist aspect of never has b
+[(10, 'of', 0.95), (45, 'of', 0.775), (55, 'of', 0.725), (61, 'of', 0.6950000000000001), (64, 'of', 0.6799999999999999), (78, 'of', 0.61), (24, 'our', 0.5377777777777777), (0, 'notwithstanding', 0.5222222222222223)]
+of -> of
+[SEED] that, of
+[RNN]  which were
+sells is reported to be very reasonable to a correspondent writes
+
+[(2, 'which', 0.99), (24, 'while', 0.7157333333333333), (57, 'which', 0.7150000000000001), (3, 'we', 0.5581666666666667), (16, 'nothing', 0.5169523809523809), (0, 'the', 0.5111111111111111), (8, 'the', 0.4906666666666666), (7, 'have', 0.46641666666666665)]
+which -> which
+[SEED] that, of which
+[RNN] 
+parts of this earth's surface--that would have been such a
+gointest in which 
+[(1, 'are', 0.6854444444444443), (2, 'about', 0.594), (8, 'relate', 0.5653333333333334), (15, 'about', 0.555), (18, 'short', 0.546), (11, 'readers', 0.5339999999999998), (65, 'a', 0.49500000000000005), (55, 'authors', 0.4902380952380952)]
+parts -> are
+[SEED] that, of which are
+[RNN] 
+sprimplic formulas--
+
+Or that a body of ice, and it will be that in the firs
+[(17, 'time', 0.5252777777777778), (16, 'short', 0.4974814814814815), (19, 'while', 0.4893703703703704), (12, 'mythological', 0.47870370370370363), (22, 'in', 0.47796296296296303), (33, 'stumbled', 0.47548611111111105), (8, 'our', 0.4622222222222222), (50, 'period,', 0.44047619047619047)]
+sprimplic -> time
+[SEED] that, of which are time
+[RNN] s are
+surface.
+
+And that which he saw a little dead and some of them insatima
+[(3, 'researches', 0.6895), (10, 'History', 0.6785714285714286), (15, 'stumbled', 0.6552083333333334), (46, 'residence,', 0.539), (54, 'Amsterdam,', 0.511), (53, 'Bastille--at', 0.5104166666666665), (94, 'shall', 0.3886666666666667), (99, 'such', 0.37875000000000003)]
+s -> researches
+[SEED] that, of which are time researches
+[RNN] .
+
+I should say that the conventional explanation was that which would be in t
+[(0, 'in', 0.0), (1, 'the', 0.0), (2, 'Royal', 0.0), (3, 'Library', 0.0), (4, 'for', 0.0), (5, 'my', 0.0), (6, 'History', 0.0), (7, 'of', 0.0)]
+. -> in
+[SEED] that, of which are time researches in
+[RNN] 
+the same place.
+
+It is not acceptable that they were not merger instances of
+[(0, 'the', 1.0), (14, 'the', 0.9299999999999999), (23, 'the', 0.885), (34, 'the', 0.83), (37, 'the', 0.815), (47, 'the', 0.765), (64, 'the', 0.6799999999999999), (67, 'the', 0.665)]
+the -> the
+[SEED] that, of which are time researches in the
+[RNN] 
+store. It was a large part of the sun, whether these
+fishes had fallen from t
+[(4, 'History', 0.7311111111111112), (2, 'for', 0.6599999999999999), (13, 'the', 0.6233333333333333), (42, 'or', 0.6144444444444443), (9, 'stumbled', 0.5968749999999999), (41, 'more', 0.5962500000000001), (22, 'the', 0.5933333333333333), (20, 'most', 0.575)]
+store. -> History
+[SEED] that, of which are time researches in the History
+[RNN] 
+is to make up in the air, of a stone ball, we have a mind, and with
+a distrib
+[(32, 'risk', 0.7), (67, 'is', 0.665), (22, 'in', 0.5933333333333333), (15, 'most', 0.5395833333333334), (40, 'in', 0.5333333333333333), (4, 'stumbled', 0.5308333333333333), (59, 'permission', 0.5170000000000001), (13, 'printed--as', 0.49583333333333335)]
+is -> risk
+[SEED] that, of which are time researches in the History risk
+[RNN] 
+of the conclusion that there is nothing to attribute the profoundly of
+the mo
+[(0, 'of', 1.0), (27, 'of', 0.865), (44, 'of', 0.78), (56, 'of', 0.72), (63, 'of', 0.685), (4, 'or', 0.6533333333333333), (78, 'of', 0.61), (3, 'more', 0.5745833333333333)]
+of -> of
+[SEED] that, of which are time researches in the History risk of
+[RNN] 
+Ashelds and Super-Sargasso Sea, in the sense of the phenomena of the
+sun was 
+[(7, 'the', 0.628015873015873), (9, 'Amsterdam,', 0.6275714285714286), (13, 'The', 0.6084920634920635), (24, 'the', 0.5726984126984127), (27, 'the', 0.562936507936508), (19, 'them', 0.5386904761904762), (20, 'home', 0.5357142857142857), (49, 'shall', 0.5105238095238095)]
+Ashelds -> the
+[SEED] that, of which are time researches in the History risk of the
+[RNN] 
+millions of the same state. Or the irreconcilabilities that had been called
+"
+[(17, 'permission', 0.6150833333333333), (6, 'title', 0.5335), (0, 'Bastille--at', 0.5277777777777778), (61, 'will', 0.49229166666666674), (32, 'into', 0.49), (37, 'curious', 0.48997023809523804), (28, 'intention', 0.4857407407407407), (25, 'is', 0.4739583333333333)]
+millions -> permission
+[SEED] that, of which are time researches in the History risk of the permission
+[RNN] s
+lightning has ever been attained by ascribed in the sky, as
+assimilated the 
+[(23, 'shall', 0.649), (28, 'such', 0.645), (25, 'myself', 0.6319444444444445), (24, 'satisfy', 0.6285714285714286), (53, 'master;', 0.525), (57, 'squibs', 0.516388888888889), (86, 'Austria,', 0.40375000000000005), (0, 'of', 0.0)]
+s -> shall
+[SEED] that, of which are time researches in the History risk of the permission shall
+[RNN] 
+exclusion and convenience to assimilate, with a
+whole "light but for several 
+[(14, 'period', 0.5683333333333332), (3, 'referring', 0.5472222222222222), (11, 'pictures', 0.538125), (20, 'therein', 0.5285714285714286), (9, 'appreciate', 0.5199444444444444), (23, 'penciled', 0.4998611111111111), (1, 'myself', 0.4975), (7, 'readers', 0.48505291005291007)]
+exclusion -> period
+[SEED] that, of which are time researches in the History risk of the permission shall period
+[RNN] s
+are many of the fall of animal unacceptable that the fishes were
+a red-roof-
+[(14, 'master;', 0.6642857142857143), (18, 'squibs', 0.6572222222222224), (47, 'Austria,', 0.541875), (61, 'history', 0.4964285714285715), (71, 'strikes', 0.46071428571428574), (0, 'to', 0.0), (1, 'its', 0.0), (2, 'pages.', 0.0)]
+s -> master;
+[SEED] that, of which are time researches in the History risk of the permission shall period master;
+[RNN] 
+
+The Editor of the _Annual Register_, 1811-463, 408:
+
+That, according to th
+[(7, 'the', 0.7505555555555554), (12, 'the', 0.7311111111111109), (17, 'the', 0.7116666666666666), (2, 'these', 0.6819999999999998), (25, 'the', 0.6805555555555555), (21, 'they', 0.6463888888888889), (36, 'the', 0.6377777777777778), (39, 'the', 0.626111111111111)]
+The -> the
+[SEED] that, of which are time researches in the History risk of the permission shall period master; the
+[RNN] y
+are all other persons as wide as an expression of a
+depth of an origin of ot
+[(0, 'most', 0.0), (1, 'part,', 0.0), (2, 'traced', 0.0), (3, 'upon', 0.0), (4, 'the', 0.0), (5, 'doors', 0.0), (6, 'of', 0.0), (7, 'barracks', 0.0)]
+y -> most
+[SEED] that, of which are time researches in the History risk of the permission shall period master; the most
+[RNN] 
+of the fall of pollen--but we are told that the disk of the sun.
+
+It was see
+[(5, 'of', 0.975), (10, 'of', 0.95), (18, 'of', 0.91), (22, 'of', 0.89), (29, 'of', 0.855), (38, 'of', 0.81), (51, 'of', 0.745), (61, 'of', 0.6950000000000001)]
+of -> of
+[SEED] that, of which are time researches in the History risk of the permission shall period master; the most of
+[RNN] 
+the sun should say that they were desirable.
+
+The point of a dark days--we b
+[(2, 'the', 0.99), (10, 'the', 0.95), (21, 'the', 0.895), (6, 'they', 0.8891666666666667), (24, 'the', 0.88), (30, 'the', 0.85), (42, 'the', 0.79), (46, 'the', 0.77)]
+the -> the
+[SEED] that, of which are time researches in the History risk of the permission shall period master; the most of the
+[RNN] 
+substance that fell at Naplee, Auge 18, 1872, it is said that the fishes that
+[(2, 'cabarets,', 0.5408333333333333), (14, 'Austria,', 0.5252777777777777), (10, 'Louis', 0.5137037037037037), (23, 'less', 0.5080555555555556), (19, 'courtiers', 0.5027777777777778), (25, 'than', 0.5023148148148148), (32, 'But,', 0.4822222222222222), (38, 'strikes', 0.4767857142857143)]
+substance -> cabarets,
+[SEED] of which are time researches in the History risk of the permission shall period master; the most of the cabarets,
+[RNN]  or
+assimilate this earth's atmosphere, be an interesting as if there are
+inte
+[(16, 'courtiers', 0.6814814814814816), (6, 'of', 0.6466666666666666), (10, 'of', 0.6333333333333333), (17, 'of', 0.61), (26, 'of', 0.58), (7, 'Louis', 0.5468333333333333), (39, 'of', 0.5366666666666666), (11, 'Austria,', 0.511875)]
+or -> courtiers
+[SEED] which are time researches in the History risk of the permission shall period master; the most of the cabarets, courtiers
+[RNN]  in
+the earth and then must be the trail of formulas, which he saw
+that he had
+[(6, 'in', 0.97), (21, 'mind', 0.7458333333333333), (13, 'it', 0.6233333333333333), (14, 'is', 0.6199999999999999), (82, 'in', 0.5900000000000001), (25, 'is', 0.5833333333333333), (89, 'in', 0.5549999999999999), (4, 'faithful', 0.5308333333333333)]
+in -> in
+[SEED] are time researches in the History risk of the permission shall period master; the most of the cabarets, courtiers in
+[RNN]  the
+Super-Sargasso Sea, in the nearely attempted
+positivism, but that they co
+[(0, 'the', 1.0), (12, 'the', 0.94), (16, 'the', 0.92), (23, 'the', 0.885), (35, 'the', 0.825), (31, 'others', 0.7041666666666667), (70, 'the', 0.65), (76, 'the', 0.62)]
+the -> the
+[SEED] time researches in the History risk of the permission shall period master; the most of the cabarets, courtiers in the
+[RNN] 
+Super-Sargasso Sea, and that they were not sensible than the method of
+disreg
+[(25, 'readers.', 0.5197916666666667), (16, 'poet', 0.5038095238095238), (31, 'doubtless', 0.48732804232804233), (30, 'others', 0.48571428571428577), (40, 'our', 0.48253968253968255), (12, 'capricious', 0.4565714285714286), (42, 'preoccupation', 0.4538400488400489), (35, 'details', 0.45178571428571423)]
+Super-Sargasso -> readers.
+[SEED] researches in the History risk of the permission shall period master; the most of the cabarets, courtiers in the readers.
+[RNN] 
+
+We have an instance of that of an established periodicals than the present d
+[(10, 'we', 0.6333333333333333), (77, 'We', 0.615), (4, 'others', 0.5444444444444444), (39, 'de', 0.5366666666666666), (9, 'details', 0.5229761904761904), (46, 'he', 0.5133333333333333), (13, 'relate,', 0.5120238095238095), (17, 'concerned', 0.49138888888888893)]
+We -> we
+[SEED] in the History risk of the permission shall period master; the most of the cabarets, courtiers in the readers. we
+[RNN] 
+are told that the stones of the largest thick ever was heard of
+an intermedia
+[(7, 'a', 0.7505555555555554), (0, 'have', 0.7222222222222222), (17, 'a', 0.7116666666666666), (2, 'relate,', 0.6442857142857144), (8, 'matter', 0.6399999999999999), (5, 'preoccupation', 0.5916666666666666), (20, 'relates', 0.5857142857142857), (14, 'ourselves', 0.5855555555555555)]
+are -> a
+[SEED] the History risk of the permission shall period master; the most of the cabarets, courtiers in the readers. we a
+[RNN] re
+age down from a fire--not only that there have been found in tree trunks
+of
+[(6, 'ourselves', 0.7185185185185186), (12, 'relates', 0.7161904761904762), (21, 'Treville,', 0.6629629629629631), (20, 'de', 0.6), (27, 'he', 0.5766666666666667), (49, 'received,', 0.5592592592592593), (5, 'before', 0.5416666666666665), (42, 'he', 0.5266666666666666)]
+re -> ourselves
+[SEED] History risk of the permission shall period master; the most of the cabarets, courtiers in the readers. we a ourselves
+[RNN]  in
+whirlwinds, but is not in one of them as great minutes, but we're
+very lar
+[(22, 'in', 0.89), (29, 'in', 0.855), (18, 'king’s', 0.7077777777777777), (33, 'into', 0.6958333333333333), (7, 'on', 0.6433333333333333), (1, 'given', 0.5638333333333333), (9, 'first', 0.5411666666666667), (10, 'visit', 0.5383333333333333)]
+in -> in
+[SEED] risk of the permission shall period master; the most of the cabarets, courtiers in the readers. we a ourselves in
+[RNN] 
+terms of orthodoxy: all other things are attempted somewhere
+that looked like
+[(0, 'the', 0.6888888888888888), (7, 'the', 0.6647777777777777), (31, 'these', 0.6422), (15, 'the', 0.6372222222222221), (1, 'antechamber', 0.6211212121212121), (21, 'the', 0.6165555555555554), (2, 'three', 0.594), (27, 'Aramis.', 0.5849047619047618)]
+terms -> the
+[SEED] of the permission shall period master; the most of the cabarets, courtiers in the readers. we a ourselves in the
+[RNN] 
+inspired black rain and a chemist who one another.
+
+It is an aspect of an ac
+[(5, 'in', 0.73125), (9, 'into', 0.5570833333333334), (1, 'three', 0.5472499999999999), (51, 'disguised', 0.5415046296296295), (8, 'corps', 0.5253333333333332), (7, 'illustrious', 0.5190530303030304), (32, 'strange', 0.5099999999999999), (15, 'honor', 0.5087499999999999)]
+inspired -> in
+[SEED] the permission shall period master; the most of the cabarets, courtiers in the readers. we a ourselves in the in
+[RNN] tensity
+stated that the subject of an outcast object in the _Report of the
+Rev
+[(0, 'the', 0.6507936507936508), (8, 'the', 0.6247619047619047), (14, 'the', 0.6052380952380952), (24, 'these', 0.5950476190476189), (7, 'soliciting', 0.5560238095238096), (11, 'being', 0.5339999999999998), (5, 'he', 0.5339285714285713), (22, 'must', 0.5297619047619048)]
+tensity -> the
+[SEED] permission shall period master; the most of the cabarets, courtiers in the readers. we a ourselves in the in the
+[RNN]  first place.
+
+But the stones of the conventional explanation that it has been
+[(0, 'illustrious', 0.6378787878787878), (1, 'corps', 0.597), (21, 'must', 0.5668333333333333), (9, 'of', 0.5411666666666667), (15, 'of', 0.5241666666666667), (19, 'Aramis.', 0.5085238095238095), (6, 'soliciting', 0.5065555555555554), (17, 'Porthos,', 0.5007083333333333)]
+first -> illustrious
+[SEED] shall period master; the most of the cabarets, courtiers in the readers. we a ourselves in the in the illustrious
+[RNN] 
+that about the size of a stone acceptable. As to the
+inscription that the con
+[(34, 'that', 0.83), (49, 'that', 0.755), (6, 'the', 0.7005555555555555), (12, 'the', 0.6788888888888889), (80, 'that', 0.6), (3, 'he', 0.5745833333333333), (42, 'had', 0.5705555555555556), (15, 'Athos,', 0.5652777777777778)]
+that -> that
+[SEED] period master; the most of the cabarets, courtiers in the readers. we a ourselves in the in the illustrious that
+[RNN] 
+the thing had been an expression of an expression of a "supposed"
+are copper 
+[(15, 'the', 0.925), (0, 'they', 0.9166666666666666), (26, 'the', 0.87), (24, 'them', 0.8066666666666666), (40, 'the', 0.8), (18, 'these', 0.7886666666666667), (37, 'they', 0.7470833333333332), (22, 'themselves', 0.6823333333333332)]
+the -> the
+[SEED] master; the most of the cabarets, courtiers in the readers. we a ourselves in the in the illustrious that the
+[RNN] 
+conclusion that it was a commonplace terrestrial masses that have
+been found 
+[(9, 'on', 0.7003333333333334), (7, 'chosen', 0.584361111111111), (1, 'of', 0.5306666666666666), (37, 'could', 0.5297499999999999), (4, 'names', 0.5226666666666666), (12, 'in', 0.5013333333333333), (17, 'or', 0.488), (19, 'of', 0.4826666666666667)]
+conclusion -> on
+[SEED] the most of the cabarets, courtiers in the readers. we a ourselves in the in the illustrious that the on
+[RNN] e way of
+course that we call the sun was that break away from the sun, at a nig
+[(24, 'rest', 0.66), (16, 'Musketeer’s', 0.6412121212121212), (32, 'contemporary', 0.5833333333333331), (36, 'extraordinary', 0.5676923076923076), (52, 'read', 0.5549999999999999), (66, 'very', 0.5025), (69, 'certainly', 0.46092592592592596), (72, 'readers', 0.4571428571428572)]
+e -> rest
+[SEED] most of the cabarets, courtiers in the readers. we a ourselves in the in the illustrious that the on rest
+[RNN] raining
+mind of a dark possession of the later we shall have to go in one
+phen
+[(6, 'in', 0.739047619047619), (33, 'a', 0.5964285714285714), (11, 'extraordinary', 0.5919230769230769), (3, 'find', 0.5863095238095238), (16, 'strongly', 0.5530952380952381), (5, 'trace', 0.5478571428571428), (44, 'certainly', 0.5241269841269841), (19, 'curiosity.', 0.521452380952381)]
+raining -> in
+[SEED] of the cabarets, courtiers in the readers. we a ourselves in the in the illustrious that the on rest in
+[RNN] 
+the present celestiality is that in the sun.
+
+It is as a heavy of a pond for
+[(17, 'the', 0.915), (3, 'these', 0.8536666666666667), (53, 'the', 0.735), (13, 'The', 0.7272222222222222), (50, 'them', 0.6875), (47, 'then,', 0.663), (22, 'this', 0.6427777777777778), (76, 'the', 0.62)]
+the -> the
+[SEED] the cabarets, courtiers in the readers. we a ourselves in the in the illustrious that the on rest in the
+[RNN] 
+air. It is the things that have fallen from the sky.
+
+They are of a tutelary
+[(8, 'a', 0.72), (20, 'afford', 0.5499999999999999), (13, 'it', 0.5454166666666668), (17, 'instructive,', 0.5083333333333333), (66, 'a', 0.5025), (3, 'with', 0.4925), (4, 'this', 0.49), (34, 'at', 0.4841666666666667)]
+air. -> a
+[SEED] cabarets, courtiers in the readers. we a ourselves in the in the illustrious that the on rest in the a
+[RNN] ir
+of the Super-Sargasso Sea, and that the attempt to be desirable. They
+remai
+[(8, 'instructive,', 0.6933333333333334), (4, 'it', 0.6533333333333333), (7, 'very', 0.5629166666666667), (5, 'might', 0.5525), (2, 'which,', 0.5499999999999999), (18, 'will', 0.5308333333333334), (15, 'little', 0.5138888888888888), (13, 'readers', 0.5120238095238095)]
+ir -> instructive,
+[SEED] courtiers in the readers. we a ourselves in the in the illustrious that the on rest in the a instructive,
+[RNN]  or
+expression of a thunderstorm, at a positive sense, or that of which were
+n
+[(54, 'or', 0.73), (3, 'our', 0.6019444444444444), (0, 'would', 0.5666666666666667), (52, 'endorsed', 0.5549999999999999), (4, 'readers', 0.5366666666666666), (1, 'certainly', 0.5343518518518519), (42, 'of', 0.5266666666666666), (32, 'our', 0.5133333333333333)]
+or -> or
+[SEED] in the readers. we a ourselves in the in the illustrious that the on rest in the a instructive, or
+[RNN] 
+intermediatist parts of the earth, and by which we have survived.
+
+
+
+
+
+1
+[(21, 'in', 0.6392857142857143), (3, 'not', 0.5941269841269841), (11, 'the', 0.57), (15, 'Fere,', 0.5594047619047618), (24, 'the', 0.5307936507936508), (25, 'End', 0.5277777777777778), (27, 'the', 0.5217460317460317), (54, 'in', 0.5214285714285715)]
+intermediatist -> in
+[SEED] the readers. we a ourselves in the in the illustrious that the on rest in the a instructive, or in
+[RNN] 
+thirtled with the whole surface.
+
+The more three forms of the support of the
+[(35, 'this', 0.6565625), (2, 'the', 0.6325), (5, 'the', 0.6229166666666666), (12, 'the', 0.6005555555555555), (15, 'the', 0.5909722222222222), (0, 'France', 0.5277777777777778), (1, 'Toward', 0.5251388888888889), (25, 'imagined', 0.5104166666666667)]
+thirtled -> this
+[SEED] readers. we a ourselves in the in the illustrious that the on rest in the a instructive, or in this
+[RNN] 
+earth's atmosphere, be permitted. They have to be the
+substance that had been
+[(6, 'at', 0.739047619047619), (14, 'at', 0.7085714285714285), (22, 'at', 0.6780952380952381), (36, 'at', 0.6247619047619047), (20, 'Porthos,', 0.6214285714285713), (13, 'Athos,', 0.6010714285714287), (32, 'a', 0.6), (2, 'last', 0.5892857142857143)]
+earth's -> at
+[SEED] we a ourselves in the in the illustrious that the on rest in the a instructive, or in this at
+[RNN] tempt
+scientist who may have another light in the
+Super-Sargasso Sea, the mean
+[(0, 'the', 0.6888888888888888), (3, 'the', 0.6785555555555555), (8, 'the', 0.6613333333333332), (10, 'the', 0.6544444444444443), (1, 'twentieth', 0.6412222222222222), (16, 'the', 0.6337777777777777), (18, 'the', 0.6268888888888888), (9, 'twenty-seventh', 0.577547619047619)]
+tempt -> the
+[SEED] a ourselves in the in the illustrious that the on rest in the a instructive, or in this at the
+[RNN] 
+materialist painty of the other system. It is our
+acceptance that the difficu
+[(6, 'at', 0.7054545454545453), (14, 'at', 0.6763636363636363), (28, 'at', 0.6254545454545454), (24, 'a', 0.6133333333333333), (2, 'the', 0.61), (0, 'twentieth', 0.6026936026936026), (29, 'a', 0.5959090909090908), (7, 'the', 0.5945959595959596)]
+materialist -> at
+[SEED] ourselves in the in the illustrious that the on rest in the a instructive, or in this at the at
+[RNN] mosphere
+were of all substances that have been products of an external
+bodies 
+[(0, 'the', 0.6388888888888888), (2, 'the', 0.6325), (8, 'the', 0.6133333333333333), (10, 'the', 0.6069444444444444), (14, 'The', 0.5941666666666666), (18, 'completely', 0.5839166666666668), (3, 'name', 0.5745833333333333), (11, 'name', 0.55125)]
+mosphere -> the
+[SEED] in the in the illustrious that the on rest in the a instructive, or in this at the at the
+[RNN] 
+meteorological state of Bright many often heated with a dominant
+stone, too, 
+[(29, 'to', 0.6107142857142858), (17, 'completely', 0.5838571428571429), (40, 'to', 0.5714285714285715), (43, 'to', 0.5607142857142857), (25, 'historical', 0.5583333333333333), (2, 'name', 0.542142857142857), (10, 'name', 0.5202380952380952), (3, 'of', 0.5159523809523809)]
+meteorological -> to
+[SEED] the in the illustrious that the on rest in the a instructive, or in this at the at the to
+[RNN] ps of
+relations of a red rain had been an extraordinary object for its attempts
+[(12, 'permission', 0.6893333333333334), (20, 'presenting', 0.66), (0, 'such', 0.5833333333333334), (4, 'appeared', 0.5308333333333333), (14, 'print', 0.5269999999999999), (8, 'hastened,', 0.5155555555555555), (25, 'pack', 0.5104166666666667), (62, 'permission,', 0.5018181818181817)]
+ps -> permission
+[SEED] in the illustrious that the on rest in the a instructive, or in this at the at the to permission
+[RNN]  of
+American description of a cosmic person, it is said that the first place"
+
+[(6, 'of', 0.97), (13, 'of', 0.935), (18, 'of', 0.91), (83, 'of', 0.585), (26, 'if', 0.58), (91, 'of', 0.5449999999999999), (9, 'someday', 0.5229761904761904), (17, 'doors', 0.5185)]
+of -> of
+[SEED] the illustrious that the on rest in the a instructive, or in this at the at the to permission of
+[RNN] 
+the sun, at the science of celestial vagabondage by the inscribed in
+the time
+[(4, 'the', 0.98), (9, 'the', 0.955), (12, 'the', 0.94), (28, 'the', 0.86), (33, 'the', 0.835), (7, 'others', 0.8041666666666667), (61, 'the', 0.6950000000000001), (81, 'the', 0.595)]
+the -> the
+[SEED] illustrious that the on rest in the a instructive, or in this at the at the to permission of the
+[RNN] 
+masses of piano, who had appeared a challers with the seven deciders that our
+[(3, 'at', 0.5472222222222222), (26, 'admission', 0.5397222222222222), (52, 'a', 0.5344444444444445), (43, 'was', 0.5233333333333333), (8, 'Academie', 0.5066666666666667), (47, 'compels', 0.4917857142857143), (64, 'a', 0.4911111111111111), (4, 'the', 0.49)]
+masses -> at
+[SEED] that the on rest in the a instructive, or in this at the at the to permission of the at
+[RNN] tempt
+of is only that of this earth was
+commonly external origins that fell in
+[(0, 'the', 0.6888888888888888), (3, 'the', 0.6785555555555555), (19, 'the', 0.6234444444444444), (7, 'et', 0.6111666666666666), (24, 'the', 0.6062222222222221), (4, 'Academie', 0.5389999999999999), (11, 'we', 0.5355), (9, 'Lettres,', 0.5225972222222222)]
+tempt -> the
+[SEED] the on rest in the a instructive, or in this at the at the to permission of the at the
+[RNN] 
+substance that had been seen to fall from the sky; finally and
+living things 
+[(13, 'succeed--a', 0.578314814814815), (25, 'Francaise', 0.5509259259259259), (15, 'probable', 0.5267361111111111), (6, 'et', 0.520925925925926), (17, 'by', 0.49138888888888893), (11, 'should', 0.48999999999999994), (3, 'Academie', 0.48337962962962966), (4, 'des', 0.4718518518518518)]
+substance -> succeed--a
+[SEED] on rest in the a instructive, or in this at the at the to permission of the at the succeed--a
+[RNN] ppearance
+of the moon, which was not a real celestial phenomena in
+astronomic 
+[(11, 'Francaise', 0.6299999999999999), (33, 'a', 0.5875925925925926), (0, 'very', 0.5740740740740741), (15, 'proper', 0.5738425925925926), (1, 'probable', 0.5619907407407407), (18, 'permission,', 0.5484511784511784), (45, 'a', 0.5453703703703704), (16, 'pack.', 0.4974814814814815)]
+ppearance -> Francaise
+[SEED] rest in the a instructive, or in this at the at the to permission of the at the succeed--a Francaise
+[RNN] 
+way to the conclusion that the pure is the preceding or a long time for the
+f
+[(12, 'was', 0.7311111111111109), (11, 'say,', 0.6825), (7, 'we', 0.5897222222222221), (0, 'with', 0.5277777777777778), (30, 'we', 0.5194444444444444), (4, 'pack.', 0.5008888888888888), (27, 'who', 0.48055555555555546), (15, 'which', 0.47277777777777774)]
+way -> was
+[SEED] in the a instructive, or in this at the at the to permission of the at the succeed--a Francaise was
+[RNN]  the
+meteorological phenomena of orthodoxy, as if there is nothing to gravel of
+[(12, 'the', 0.94), (32, 'the', 0.84), (48, 'the', 0.76), (5, 'here', 0.7041666666666666), (16, 'that', 0.6644444444444445), (72, 'the', 0.64), (30, 'this', 0.6138888888888888), (79, 'the', 0.605)]
+the -> the
+[SEED] the a instructive, or in this at the at the to permission of the at the succeed--a Francaise was the
+[RNN] 
+substance that had been seen to fall from the sky, may be found in another
+at
+[(9, 'but', 0.6366666666666666), (0, 'slanderers', 0.6148148148148148), (58, 'obtain', 0.4996296296296296), (2, 'pretend', 0.4976190476190476), (18, 'is', 0.48870370370370375), (20, 'first', 0.4866666666666667), (25, 'manuscript', 0.48287037037037034), (32, 'restoring', 0.46666666666666656)]
+substance -> but
+[SEED] a instructive, or in this at the at the to permission of the at the succeed--a Francaise was the but
+[RNN] ter
+somewhere else. I have another development of an inch in the
+Super-Sargass
+[(5, 'letters.', 0.6635416666666666), (0, 'moderately', 0.6222222222222222), (2, 'to', 0.605), (22, 'restoring', 0.5933333333333333), (32, 'entering', 0.5716666666666665), (17, 'we', 0.5591666666666666), (19, 'to', 0.5530555555555555), (3, 'men', 0.5472222222222222)]
+ter -> letters.
+[SEED] instructive, or in this at the at the to permission of the at the succeed--a Francaise was the but letters.
+[RNN]  They
+have to be a dominant--as they caught in all in all of planetary subject.
+[(3, 'the', 0.7113888888888888), (19, 'the', 0.6536111111111111), (43, 'the', 0.5669444444444445), (11, 'we', 0.55125), (35, 'have', 0.5499999999999999), (50, 'the', 0.5416666666666666), (54, 'the', 0.5272222222222221), (57, 'the', 0.5163888888888889)]
+They -> the
+[SEED] or in this at the at the to permission of the at the succeed--a Francaise was the but letters. the
+[RNN] 
+sun was that the preposterous coal are continuous with the
+substance that had
+[(5, 'manuscript', 0.6391666666666667), (37, 'should', 0.5433333333333332), (10, 'our', 0.5277777777777777), (40, 'success', 0.5206349206349207), (47, 'second', 0.51), (57, 'second', 0.4766666666666667), (23, 'into', 0.46708333333333335), (12, 'restoring', 0.45259259259259255)]
+sun -> manuscript
+[SEED] in this at the at the to permission of the at the succeed--a Francaise was the but letters. the manuscript
+[RNN]  of
+some of them have the notion that they had been seen in the sky that is not
+[(2, 'offer', 0.7919999999999999), (66, 'of', 0.6699999999999999), (4, 'our', 0.5988888888888888), (21, 'if', 0.5966666666666667), (48, 'godfather', 0.562962962962963), (29, 'first', 0.4845), (27, 'doubt)', 0.48055555555555546), (31, 'should', 0.46944444444444433)]
+of -> offer
+[SEED] this at the at the to permission of the at the succeed--a Francaise was the but letters. the manuscript offer
+[RNN] 
+of the Academy that they were not of the sun something else.
+
+And the positi
+[(63, 'of', 0.685), (1, 'our', 0.6080555555555555), (18, 'if', 0.6066666666666667), (45, 'godfather', 0.5740740740740742), (98, 'of', 0.51), (26, 'first', 0.493), (24, 'doubt)', 0.4888888888888888), (28, 'should', 0.4777777777777777)]
+of -> of
+[SEED] at the at the to permission of the at the succeed--a Francaise was the but letters. the manuscript offer of
+[RNN] 
+inertia, it is mentioned. I think I can think that the snakes had fallen from 
+[(4, 'Fere,', 0.6451666666666667), (15, 'understood,', 0.6411931818181819), (16, 'let', 0.5877777777777777), (45, 'in', 0.58125), (32, 'first', 0.5529999999999999), (2, 'de', 0.53625), (59, 'in', 0.52875), (19, 'with', 0.5279166666666667)]
+inertia, -> Fere,
+[SEED] the at the to permission of the at the succeed--a Francaise was the but letters. the manuscript offer of Fere,
+[RNN] 
+Darthmen as to striking down in the local, a light of these fishes were compos
+[(0, 'the', 0.6388888888888888), (3, 'the', 0.6293055555555555), (26, 'the', 0.5558333333333333), (30, 'the', 0.5430555555555555), (14, 'with', 0.5425), (2, 'or', 0.53625), (35, 'the', 0.5270833333333332), (36, 'market', 0.5238888888888888)]
+Darthmen -> the
+[SEED] at the to permission of the at the succeed--a Francaise was the but letters. the manuscript offer of Fere, the
+[RNN] 
+Super-Sargasso Sea is the method of an intermediatist
+strength. In it is not 
+[(9, 'understood,', 0.5767207792207792), (14, 'our', 0.5609523809523809), (0, 'pleasure', 0.5273809523809524), (1, 'or', 0.5211904761904762), (4, 'he', 0.5133333333333333), (11, 'us', 0.495), (8, 'being', 0.49371428571428577), (2, 'the', 0.4635714285714285)]
+Super-Sargasso -> understood,
+[SEED] the to permission of the at the succeed--a Francaise was the but letters. the manuscript offer of Fere, the understood,
+[RNN]  had
+found in the past, or positive states--as that it was said that the
+concl
+[(54, 'had', 0.73), (56, 'made', 0.52), (5, 'history.', 0.4739583333333333), (17, 'Monday', 0.4575), (38, 'was', 0.44999999999999996), (25, 'market', 0.4375), (30, 'which', 0.4344444444444444), (59, 'La', 0.43083333333333335)]
+had -> had
+[SEED] to permission of the at the succeed--a Francaise was the but letters. the manuscript offer of Fere, the understood, had
+[RNN]  been
+seen to fall from a conceiving upon this earth, with the spring up where 
+[(10, 'seeing', 0.7124999999999999), (3, 'second', 0.6019444444444444), (12, 'women', 0.5953333333333333), (24, 'open', 0.5866666666666667), (9, 'citizens,', 0.5482407407407407), (17, 'Street,', 0.5446428571428572), (18, 'leaving', 0.5416666666666666), (26, 'hastened', 0.5075000000000001)]
+been -> seeing
+[SEED] permission of the at the succeed--a Francaise was the but letters. the manuscript offer of Fere, the understood, had seeing
+[RNN] 
+characters may have been a little dogmatically to suggest to real than are
+so
+[(27, 'a', 0.6055), (9, 'children', 0.6048333333333333), (30, 'a', 0.5950000000000001), (15, 'hastened', 0.5858333333333333), (24, 'uncertain', 0.5442962962962964), (49, 'a', 0.5285000000000001), (31, 'partisan,', 0.5226481481481482), (8, 'their', 0.512)]
+characters -> a
+[SEED] of the at the succeed--a Francaise was the but letters. the manuscript offer of Fere, the understood, had seeing a
+[RNN] way
+and then that the whitish species is the method of a
+storm, before an inch
+[(16, 'was', 0.7155555555555555), (7, 'toward', 0.6433333333333333), (37, 'days', 0.5886111111111111), (58, 'war', 0.5522222222222222), (63, 'was', 0.5327777777777778), (68, 'war', 0.5133333333333332), (73, 'was', 0.4938888888888888), (77, 'war', 0.4783333333333333)]
+way -> was
+[SEED] the at the succeed--a Francaise was the but letters. the manuscript offer of Fere, the understood, had seeing a was
+[RNN] hed up
+in the sky of an origin upon
+the fall of fishes were bitualimate someth
+[(0, 'gathered,', 0.6296296296296297), (36, 'There', 0.5648888888888889), (45, 'there', 0.5338888888888889), (8, 'and', 0.5333333333333332), (44, 'other;', 0.52), (2, 'every', 0.506), (18, 'and', 0.5055555555555555), (19, 'few', 0.5027777777777778)]
+hed -> gathered,
+[SEED] at the succeed--a Francaise was the but letters. the manuscript offer of Fere, the understood, had seeing a was gathered,
+[RNN]  would
+so often be a factor that had
+surrendered to still evades and a horizon
+[(8, 'full', 0.608), (5, 'group,', 0.5633333333333334), (38, 'who', 0.5579999999999999), (9, 'of', 0.5411666666666667), (48, 'who', 0.5235555555555554), (24, 'or', 0.49866666666666665), (32, 'of', 0.476), (37, 'nobles,', 0.45795238095238094)]
+would -> full
+[SEED] the succeed--a Francaise was the but letters. the manuscript offer of Fere, the understood, had seeing a was gathered, full
+[RNN]  of
+course that is made only by disregarding or not.
+
+Something that is compl
+[(0, 'of', 1.0), (23, 'of', 0.885), (15, 'or', 0.6166666666666667), (13, 'some', 0.5454166666666668), (1, 'curiosity.', 0.5306666666666666), (7, 'common,', 0.5284523809523809), (16, 'other', 0.5213333333333333), (28, 'nobles,', 0.4709523809523809)]
+of -> of
+[SEED] succeed--a Francaise was the but letters. the manuscript offer of Fere, the understood, had seeing a was gathered, full of
+[RNN] 
+cannot be recorded by a whirlwind, with them.
+
+In the _Annual Register_, 188
+[(20, 'an', 0.7), (7, 'and', 0.6433333333333333), (0, 'curiosity.', 0.6), (1, 'In', 0.5527777777777777), (4, 'panics', 0.5444444444444444), (31, 'against', 0.5432142857142858), (21, 'event', 0.5171111111111112), (6, 'common,', 0.5157936507936508)]
+cannot -> an
+[SEED] Francaise was the but letters. the manuscript offer of Fere, the understood, had seeing a was gathered, full of an
+[RNN] 
+intensity before the next morning, in
+another place in diameter, with it. The
+[(10, 'against', 0.6383597883597883), (33, 'in', 0.6185185185185186), (20, 'against', 0.6047619047619048), (15, 'the', 0.5824074074074075), (2, 'this', 0.5775), (29, 'against', 0.5745238095238095), (6, 'nobles,', 0.5696825396825397), (21, 'the', 0.5635185185185185)]
+intensity -> against
+[SEED] was the but letters. the manuscript offer of Fere, the understood, had seeing a was gathered, full of an against
+[RNN] 
+another surface.
+
+_Scientific American_, 8-24). For society, the substance w
+[(1, 'other;', 0.8449603174603174), (0, 'each', 0.5952380952380952), (7, 'made', 0.5744047619047619), (16, 'made', 0.5476190476190477), (39, 'and', 0.5238888888888888), (35, 'robbers,', 0.4959821428571428), (22, 'in', 0.48738095238095236), (3, 'was', 0.4846825396825397)]
+another -> other;
+[SEED] the but letters. the manuscript offer of Fere, the understood, had seeing a was gathered, full of an against other;
+[RNN] 
+
+Acceptance is that the stones of the sun, the super-mercantile pail of compl
+[(24, 'concealed', 0.6029629629629629), (12, 'Spain,', 0.564), (29, 'open', 0.4892500000000001), (19, 'Then,', 0.4826666666666667), (2, 'the', 0.47300000000000003), (8, 'the', 0.45866666666666667), (7, 'against', 0.44880158730158726), (42, 'upon', 0.44766666666666666)]
+Acceptance -> concealed
+[SEED] but letters. the manuscript offer of Fere, the understood, had seeing a was gathered, full of an against other; concealed
+[RNN] 
+throughout the disk of the sun, when the Positive Absolute and
+Inscientific A
+[(6, 'there', 0.6143333333333333), (14, 'who', 0.5786666666666667), (0, 'or', 0.5666666666666667), (3, 'or', 0.5581666666666667), (2, 'secret', 0.506), (22, 'took', 0.5043333333333333), (38, 'the', 0.504), (10, 'Huguenots,', 0.49083333333333334)]
+throughout -> there
+[SEED] letters. the manuscript offer of Fere, the understood, had seeing a was gathered, full of an against other; concealed there
+[RNN] ; never
+has been shaped by means of it. All the fall of this earth's gravitatio
+[(0, 'were', 0.0), (1, 'robbers,', 0.0), (2, 'mendicants,', 0.0), (3, 'Huguenots,', 0.0), (4, 'wolves,', 0.0), (5, 'and', 0.0), (6, 'scoundrels,', 0.0), (7, 'who', 0.0)]
+; -> were
+[SEED] the manuscript offer of Fere, the understood, had seeing a was gathered, full of an against other; concealed there were
+[RNN] 
+someone else to incasse of things that have been made
+breadth. Of all incredi
+[(28, 'sometimes', 0.7344126984126985), (23, 'often', 0.5984285714285714), (7, 'made', 0.5744047619047619), (9, 'upon', 0.5684523809523809), (1, 'mendicants,', 0.5642640692640692), (14, 'took', 0.5535714285714285), (5, 'scoundrels,', 0.5476461038961039), (3, 'wolves,', 0.5159523809523809)]
+someone -> sometimes
+[SEED] manuscript offer of Fere, the understood, had seeing a was gathered, full of an against other; concealed there were sometimes
+[RNN] 
+from the street--surrounded by unknown to substances that he had
+been found i
+[(13, 'from', 0.935), (20, 'first', 0.57), (8, 'or', 0.56), (22, 'of', 0.5191666666666667), (40, 'of', 0.46666666666666673), (37, 'nor', 0.45277777777777767), (7, 'cardinal', 0.44229166666666664), (49, 'of', 0.4404166666666667)]
+from -> from
+[SEED] offer of Fere, the understood, had seeing a was gathered, full of an against other; concealed there were sometimes from
+[RNN] 
+the strangest themselves have data of minds who did not
+acceptably definite a
+[(4, 'the', 0.98), (11, 'the', 0.945), (15, 'the', 0.925), (20, 'the', 0.9), (24, 'the', 0.88), (27, 'the', 0.865), (33, 'the', 0.835), (36, 'the', 0.8200000000000001)]
+the -> the
+[SEED] of Fere, the understood, had seeing a was gathered, full of an against other; concealed there were sometimes from the
+[RNN]  street
+elementary periodicals.
+
+Explanation is that all the size of a hailst
+[(6, 'the', 0.6466666666666666), (10, 'the', 0.6333333333333333), (13, 'seeing', 0.6233333333333333), (15, 'the', 0.6166666666666667), (19, 'the', 0.6033333333333333), (22, 'the', 0.5933333333333333), (1, 'first', 0.5748888888888889), (28, 'the', 0.5733333333333333)]
+street -> the
+[SEED] Fere, the understood, had seeing a was gathered, full of an against other; concealed there were sometimes from the the
+[RNN] ological
+and the state that has been a little strong world or six hours:
+
+Tha
+[(1, 'on', 0.5389583333333333), (14, 'of', 0.5037499999999999), (4, 'clamor,', 0.5016666666666666), (13, 'livery', 0.49347222222222226), (25, 'Jolly', 0.48124999999999996), (23, 'of', 0.479375), (20, 'toward', 0.47500000000000003), (22, 'hostel', 0.46972222222222226)]
+ological -> on
+[SEED] the understood, had seeing a was gathered, full of an against other; concealed there were sometimes from the the on
+[RNN] ly
+meteoritic material.
+
+In the _Annual Register_, 1841-279, there is a famil
+[(2, 'clamor,', 0.542142857142857), (11, 'livery', 0.5249999999999999), (24, 'Miller.', 0.48190476190476184), (36, 'all.', 0.4783333333333334), (38, 'young', 0.459), (49, 'yourself', 0.4089583333333333), (78, 'blue', 0.35583333333333333), (72, 'clothed', 0.35047619047619044)]
+ly -> clamor,
+[SEED] understood, had seeing a was gathered, full of an against other; concealed there were sometimes from the the on clamor,
+[RNN] 
+the mountains of this earth. They are of a word it as that which
+specific spi
+[(3, 'the', 0.985), (7, 'the', 0.965), (10, 'the', 0.95), (16, 'the', 0.92), (19, 'the', 0.905), (25, 'the', 0.875), (28, 'the', 0.86), (24, 'there,', 0.7333333333333334)]
+the -> the
+[SEED] had seeing a was gathered, full of an against other; concealed there were sometimes from the the on clamor, the
+[RNN] 
+materialist
+argue the attitude of one another world that some of them all tha
+[(3, 'the', 0.6069191919191919), (6, 'the', 0.5976767676767676), (37, 'at', 0.5927272727272727), (12, 'the', 0.5791919191919191), (15, 'the', 0.569949494949495), (38, 'a', 0.5645454545454546), (13, 'hostel', 0.5525000000000001), (58, 'mail,', 0.5516484848484848)]
+materialist -> the
+[SEED] seeing a was gathered, full of an against other; concealed there were sometimes from the the on clamor, the the
+[RNN] ologian
+matter.
+
+In the _Monthly Weather Review_, July, 1891; Sir St. Sicolin
+[(1, 'of', 0.5448809523809524), (12, 'Jolly', 0.5281904761904762), (7, 'toward', 0.5207936507936507), (10, 'of', 0.5202380952380952), (36, 'Imagine', 0.5076190476190476), (19, 'of', 0.49559523809523803), (27, 'young', 0.48604761904761906), (24, 'to', 0.48190476190476184)]
+ologian -> of
+[SEED] a was gathered, full of an against other; concealed there were sometimes from the the on clamor, the the of
+[RNN] 
+the region of the moon.
+
+One thinks that they are trying to be intermediate 
+[(0, 'the', 1.0), (6, 'the', 0.97), (9, 'the', 0.955), (15, 'the', 0.925), (18, 'the', 0.91), (14, 'there,', 0.775), (64, 'the', 0.6799999999999999), (12, 'When', 0.6788888888888889)]
+the -> the
+[SEED] was gathered, full of an against other; concealed there were sometimes from the the on clamor, the the of the
+[RNN] 
+morning, in the sky that is not to do that this substance was cloudless.
+
+Th
+[(24, 'young', 0.5793333333333334), (7, 'of', 0.5227083333333333), (37, 'Don', 0.5206944444444443), (4, 'toward', 0.5172222222222222), (33, 'Imagine', 0.5069642857142856), (42, 'Don', 0.5047222222222222), (29, 'portrait', 0.49875), (16, 'of', 0.4983333333333333)]
+morning, -> young
+[SEED] gathered, full of an against other; concealed there were sometimes from the the on clamor, the the of the young
+[RNN] 
+"away." "The astronomers have fought to the acceptance of
+a stationary source
+[(6, 'a', 0.6928571428571428), (11, 'a', 0.6749999999999999), (16, 'a', 0.6571428571428571), (30, 'a', 0.6071428571428571), (35, 'a', 0.5892857142857143), (46, 'a', 0.55), (7, 'dash.', 0.5422380952380952), (5, 'at', 0.5339285714285713)]
+"away." -> a
+[SEED] full of an against other; concealed there were sometimes from the the on clamor, the the of the young a
+[RNN] gain
+that the year 1882, at Phythinous never has fallen from the sky.
+
+The sh
+[(4, 'a', 0.735), (1, 'Imagine', 0.7225595238095239), (9, 'a', 0.7162499999999999), (23, 'a', 0.6637500000000001), (28, 'a', 0.645), (39, 'a', 0.60375), (47, 'a', 0.57375), (19, 'mail,', 0.5731666666666666)]
+gain -> a
+[SEED] of an against other; concealed there were sometimes from the the on clamor, the the of the young a a
+[RNN] rt
+widely customary to "science of coal." In the _Scientific
+American Suppleme
+[(3, 'eighteen;', 0.5289814814814815), (7, 'without', 0.5284523809523809), (10, 'without', 0.5202380952380952), (9, 'corselet,', 0.5128703703703704), (15, 'without', 0.506547619047619), (21, 'clothed', 0.49011904761904757), (33, 'into', 0.48708333333333337), (37, 'between', 0.4463095238095237)]
+rt -> eighteen;
+[SEED] an against other; concealed there were sometimes from the the on clamor, the the of the young a a eighteen;
+[RNN] 
+
+That there is no more of the same place, the small coins were had the same s
+[(8, 'coat', 0.6399999999999999), (27, 'had', 0.6247222222222222), (32, 'shade', 0.5319999999999999), (4, 'his', 0.5172222222222222), (7, 'his', 0.5093055555555556), (12, 'his', 0.4961111111111111), (22, 'the', 0.46972222222222226), (39, 'heavenly', 0.46958333333333335)]
+That -> coat
+[SEED] against other; concealed there were sometimes from the the on clamor, the the of the young a a eighteen; coat
+[RNN] ed
+there are no positive and beliefs on the spherited phenomena. The
+protecked
+[(19, 'faded', 0.5128333333333334), (25, 'lees', 0.5104166666666667), (12, 'doublet,', 0.5091666666666667), (22, 'nameless', 0.4820833333333333), (24, 'between', 0.48190476190476184), (30, 'heavenly', 0.46041666666666664), (47, 'developed,', 0.4335), (59, 'even', 0.41125000000000006)]
+ed -> faded
+[SEED] other; concealed there were sometimes from the the on clamor, the the of the young a a eighteen; coat faded
+[RNN] 
+to the state of his sense of finality that occurred in the moon,
+we are not a
+[(72, 'too', 0.5688888888888889), (13, 'long', 0.5454166666666668), (23, 'the', 0.5408333333333333), (4, 'between', 0.5366666666666666), (15, 'brown;', 0.5138888888888888), (18, 'bones,', 0.5055555555555555), (26, 'enormously', 0.46399999999999997), (27, 'developed,', 0.4613333333333333)]
+to -> too
+[SEED] concealed there were sometimes from the the on clamor, the the of the young a a eighteen; coat faded too
+[RNN] k
+to this earth, and of mind whether we shall see that there is no record of
+p
+[(0, 'small', 0.0), (1, 'for', 0.0), (2, 'a', 0.0), (3, 'grown', 0.0), (4, 'man,', 0.0), (5, 'an', 0.0), (6, 'experienced', 0.0), (7, 'eye', 0.0)]
+k -> small
+[SEED] there were sometimes from the the on clamor, the the of the young a a eighteen; coat faded too small
+[RNN] 
+writings. I think that they have been
+found in terms of the fall of the first
+[(19, 'it', 0.6703703703703705), (32, 'hit', 0.5288888888888889), (2, 'grown', 0.528), (5, 'experienced', 0.521969696969697), (7, 'might', 0.5218148148148148), (9, 'taken', 0.5164074074074074), (37, 'its', 0.5131481481481481), (24, 'long', 0.5051851851851852)]
+writings. -> it
+[SEED] were sometimes from the the on clamor, the the of the young a a eighteen; coat faded too small it
+[RNN] .
+
+The next green of the first place--that it would be a description of all in
+[(0, 'not', 0.0), (1, 'been', 0.0), (2, 'for', 0.0), (3, 'the', 0.0), (4, 'long', 0.0), (5, 'sword', 0.0), (6, 'which,', 0.0), (7, 'dangling', 0.0)]
+. -> not
+[SEED] sometimes from the the on clamor, the the of the young a a eighteen; coat faded too small it not
+[RNN] 
+conceivable. In the _Annual Register_, 1821-469, there
+felt in the first plac
+[(32, 'on', 0.6066666666666667), (17, 'owner', 0.56425), (3, 'long', 0.5472222222222222), (33, 'horseback.', 0.5381111111111111), (9, 'leather', 0.534345238095238), (47, 'observers.', 0.4887500000000001), (15, 'of', 0.4881944444444445), (19, 'he', 0.4776388888888889)]
+conceivable. -> on
+[SEED] from the the on clamor, the the of the young a a eighteen; coat faded too small it not on
+[RNN] ly
+then, in a considerable distance from the sky are not submarine to
+think of
+[(3, 'young', 0.5581666666666667), (26, 'yellow', 0.5316666666666666), (25, 'old,', 0.5104166666666667), (24, 'years', 0.49866666666666665), (42, 'legs,', 0.44766666666666666), (49, 'lower', 0.42783333333333334), (66, 'day.', 0.3908333333333333), (64, 'leagues', 0.3723809523809523)]
+ly -> young
+[SEED] the the on clamor, the the of the young a a eighteen; coat faded too small it not on young
+[RNN] 
+to the archaeologists as if they were desirable.
+
+That the matter fall from 
+[(18, 'to', 0.91), (56, 'to', 0.72), (40, 'though', 0.6222222222222222), (6, 'the', 0.5927777777777777), (3, 'steed', 0.5581666666666667), (16, 'from', 0.5366666666666667), (15, 'pony,', 0.5241666666666667), (7, 'observed', 0.5227083333333333)]
+to -> to
+[SEED] the on clamor, the the of the young a a eighteen; coat faded too small it not on young to
+[RNN] 
+some of them are anywhere it encountered by astronomers and the subject.
+
+Th
+[(51, 'so', 0.6208333333333333), (0, 'fourteen', 0.5833333333333334), (26, 'lower', 0.5509999999999999), (17, 'on', 0.5337500000000001), (2, 'old,', 0.495), (14, 'not', 0.4908333333333333), (49, 'horse', 0.47816666666666663), (37, 'to', 0.47541666666666665)]
+some -> so
+[SEED] on clamor, the the of the young a a eighteen; coat faded too small it not on young to so
+[RNN] me
+something that is the strange of the exclusionists are called "existence"
+w
+[(0, 'well', 0.5833333333333334), (30, 'he', 0.5666666666666667), (14, 'when', 0.5425), (1, 'concealed', 0.5343518518518519), (4, 'strange-colored', 0.5117777777777778), (15, 'everybody', 0.49675925925925934), (20, 'horseflesh,', 0.47727272727272724), (22, 'appearance', 0.4746666666666667)]
+me -> well
+[SEED] clamor, the the of the young a a eighteen; coat faded too small it not on young to so well
+[RNN] .
+
+_Monthly Notices_, 11-179).
+
+To forget from the sun, at the same shells, 
+[(0, 'concealed', 0.0), (1, 'under', 0.0), (2, 'his', 0.0), (3, 'strange-colored', 0.0), (4, 'hide', 0.0), (5, 'and', 0.0), (6, 'his', 0.0), (7, 'unaccountable', 0.0)]
+. -> concealed
+[SEED] the the of the young a a eighteen; coat faded too small it not on young to so well concealed
+[RNN] 
+there is no mention of the damned. The study the new to
+communication upon th
+[(19, 'the', 0.7843333333333334), (22, 'the', 0.7713333333333334), (39, 'the', 0.6976666666666667), (28, 'he', 0.688), (3, 'hide', 0.6238333333333334), (8, 'that', 0.608), (0, 'under', 0.6), (11, 'time', 0.5984999999999999)]
+there -> the
+[SEED] the of the young a a eighteen; coat faded too small it not on young to so well concealed the
+[RNN] 
+astonishing of the Universal, or stands of
+their correspondents and all of wh
+[(5, 'at', 0.709090909090909), (15, 'an', 0.6727272727272727), (12, 'a', 0.655151515151515), (23, 'an', 0.6436363636363636), (28, 'to', 0.6254545454545454), (42, 'so', 0.5745454545454545), (4, 'pony', 0.5493939393939394), (1, 'of', 0.5276515151515151)]
+astonishing -> at
+[SEED] of the young a a eighteen; coat faded too small it not on young to so well concealed the at
+[RNN] tempt
+to achieve between the System, which would be a real
+construction of any
+[(13, 'the', 0.6441111111111111), (2, 'he', 0.5609999999999999), (38, 'the', 0.5579999999999999), (22, 'to', 0.5043333333333333), (54, 'the', 0.5028888888888888), (16, 'Beaugency--produced', 0.4616140350877193), (5, 'about', 0.45499999999999996), (57, 'that', 0.45283333333333337)]
+tempt -> the
+[SEED] the young a a eighteen; coat faded too small it not on young to so well concealed the at the
+[RNN] 
+heavens can be said and begin seems to me that the word of a man of
+stone was
+[(15, 'been', 0.6717261904761905), (14, 'had', 0.6052380952380952), (2, 'Beaugency--produced', 0.5880451127819549), (5, 'feeling,', 0.5861607142857143), (7, 'extended', 0.5801488095238094), (13, 'feeling', 0.5788095238095239), (24, 'the', 0.5726984126984127), (52, 'he', 0.5638095238095238)]
+heavens -> been
+[SEED] young a a eighteen; coat faded too small it not on young to so well concealed the at the been
+[RNN] 
+necessed the sun was a datum of a thing with the history of craws in the
+sky.
+[(2, 'perceived', 0.7195833333333332), (13, 'second', 0.5843750000000001), (30, 'steed', 0.5595833333333333), (15, 'named--from', 0.5080492424242424), (7, 'was', 0.4690972222222222), (8, 'the', 0.4666666666666666), (9, 'Don', 0.46423611111111107), (0, 'more', 0.4583333333333333)]
+necessed -> perceived
+[SEED] a a eighteen; coat faded too small it not on young to so well concealed the at the been perceived
+[RNN]  stone is
+of the damned. It was a conviction that they were seen to fall from t
+[(3, 'so', 0.7879999999999999), (17, 'to', 0.732), (10, 'second', 0.6935), (27, 'steed', 0.6804666666666668), (6, 'Don', 0.668222222222222), (18, 'conceal', 0.6153333333333333), (1, 'young', 0.597), (7, 'Quixote', 0.5422380952380952)]
+stone -> so
+[SEED] a eighteen; coat faded too small it not on young to so well concealed the at the been perceived so
+[RNN] 
+interested in
+the treasure here, or the desirable can never have thought to t
+[(1, 'the', 0.6191111111111112), (9, 'his', 0.5942222222222222), (10, 'not', 0.5911111111111111), (17, 'the', 0.5693333333333334), (3, 'Quixote', 0.5675476190476191), (23, 'steed', 0.5605), (5, 'this', 0.5579166666666667), (35, 'therefore,', 0.5499999999999999)]
+interested -> the
+[SEED] eighteen; coat faded too small it not on young to so well concealed the at the been perceived so the
+[RNN] 
+phenomena that was very much like the substance that had
+not been a positive 
+[(27, 'he', 0.6407407407407408), (25, 'horseman', 0.6076388888888887), (8, 'not', 0.6044444444444445), (15, 'the', 0.5824074074074075), (34, 'when', 0.5763888888888887), (17, 'appearance', 0.5659444444444445), (5, 'Rosinante', 0.5561111111111111), (12, 'conceal', 0.5533068783068783)]
+phenomena -> he
+[SEED] coat faded too small it not on young to so well concealed the at the been perceived so the he
+[RNN] avens, and
+excluding an old chief and a complete size of a man who call it."
+
+[(24, 'a', 0.6355555555555557), (0, 'was.', 0.611111111111111), (19, 'was', 0.6033333333333333), (6, 'when', 0.5927777777777777), (41, 'above', 0.5803500000000001), (26, 'was', 0.58), (32, 'and', 0.5599999999999999), (1, 'He', 0.5527777777777777)]
+avens, -> a
+[SEED] faded too small it not on young to so well concealed the at the been perceived so the he a
+[RNN] t
+the "supposed" observations that were
+predicted in the first place. It was s
+[(8, 'the', 0.7466666666666666), (13, 'the', 0.7272222222222222), (5, 'twenty', 0.7041666666666667), (22, 'the', 0.6922222222222222), (27, 'that', 0.6487499999999999), (25, 'gentleman,', 0.6125), (44, 'the', 0.6066666666666666), (39, '“this', 0.5903333333333334)]
+t -> the
+[SEED] too small it not on young to so well concealed the at the been perceived so the he a the
+[RNN] ologian
+months of the same state. But the fibers in
+the time of the side of th
+[(14, 'old', 0.6052380952380952), (3, 'accompanied', 0.553262987012987), (15, 'Gascon', 0.4992063492063492), (26, 'could', 0.4888571428571429), (22, 'of', 0.48738095238095236), (8, 'all', 0.4723809523809524), (16, 'gentleman,', 0.45123809523809527), (0, 'words', 0.44761904761904764)]
+ologian -> old
+[SEED] small it not on young to so well concealed the at the been perceived so the he a the old
+[RNN] 
+something else is a prediction that we call the same place, but in an elephant
+[(0, 'Gascon', 0.611111111111111), (15, '“this', 0.5961111111111111), (1, 'gentleman,', 0.5288240740740742), (5, 'Bearn', 0.5272222222222223), (7, 'of', 0.5182407407407408), (16, 'horse', 0.4906666666666667), (22, 'of', 0.47796296296296303), (21, 'house', 0.47733333333333333)]
+something -> Gascon
+[SEED] it not on young to so well concealed the at the been perceived so the he a the old Gascon
+[RNN] ,
+it was not so much and some of these formulas."
+
+In _Nature_, 28-124, there
+[(0, 'gentleman,', 0.0), (1, 'in', 0.0), (2, 'that', 0.0), (3, 'pure', 0.0), (4, 'Bearn', 0.0), (5, 'PATOIS', 0.0), (6, 'of', 0.0), (7, 'which', 0.0)]
+, -> gentleman,
+[SEED] not on young to so well concealed the at the been perceived so the he a the old Gascon gentleman,
+[RNN] 
+which we have a microscope and subject, for instance.
+
+As to what is called 
+[(6, 'which', 0.97), (34, 'which', 0.83), (60, 'with', 0.5634999999999999), (13, '“this', 0.561), (12, 'himself,', 0.5169999999999999), (94, 'which,', 0.5123333333333334), (24, 'thirteen', 0.48399999999999993), (11, 'rid', 0.48299999999999993)]
+which -> which
+[SEED] on young to so well concealed the at the been perceived so the he a the old Gascon gentleman, which
+[RNN] 
+seem are that anything can be really think of finds or alleged these
+or resis
+[(3, 'never', 0.6238333333333334), (25, 'ever', 0.5833333333333333), (5, 'himself,', 0.5822916666666667), (35, 'sell', 0.5499999999999999), (26, 'since,', 0.5316666666666666), (34, 'Never', 0.5256666666666666), (22, 'remained', 0.5191666666666667), (11, 'the', 0.49874999999999997)]
+seem -> never
+[SEED] young to so well concealed the at the been perceived so the he a the old Gascon gentleman, which never
+[RNN] 
+been seen to fall from the sky. There is nothing to other lands
+of a stone ax
+[(5, 'born', 0.6499999999999999), (21, 'ever', 0.5966666666666667), (30, 'Never', 0.5383333333333333), (18, 'remained', 0.5308333333333334), (7, 'the', 0.5093055555555556), (99, 'been', 0.505), (1, 'himself,', 0.4560416666666666), (12, 'about', 0.4543333333333333)]
+been -> born
+[SEED] to so well concealed the at the been perceived so the he a the old Gascon gentleman, which never born
+[RNN] 
+doubtice.
+
+As to the south of States are never fall from the sky, it seems t
+[(6, 'about', 0.6448703703703704), (2, 'house', 0.638), (18, 'ought', 0.5864444444444445), (21, 'you', 0.5635185185185185), (4, 'your', 0.5625925925925925), (3, 'of', 0.5289814814814815), (39, 'you', 0.5068518518518518), (5, 'father', 0.5055555555555555)]
+doubtice. -> about
+[SEED] so well concealed the at the been perceived so the he a the old Gascon gentleman, which never born about
+[RNN] 
+astronomic pronouncements that have fallen at Steaken as "true meteoritic
+mat
+[(12, 'to', 0.6893333333333334), (22, 'to', 0.6526666666666667), (3, 'and', 0.6128888888888889), (4, 'has', 0.6097777777777778), (39, 'as', 0.5903333333333334), (34, 'a', 0.5810000000000001), (44, 'as', 0.5720000000000001), (2, 'ago,', 0.5609999999999999)]
+astronomic -> to
+[SEED] well concealed the at the been perceived so the he a the old Gascon gentleman, which never born about to
+[RNN] 
+see whether we shall have to conceive of origin to the proceed bearing this
+e
+[(5, 'sell', 0.7041666666666666), (4, 'Never', 0.675111111111111), (43, 'ever', 0.5669444444444445), (0, 'make', 0.5277777777777778), (10, 'die', 0.5277777777777777), (2, 'love', 0.5225), (37, 'servant.', 0.5206944444444443), (48, 'there,”', 0.4946031746031746)]
+see -> sell
+[SEED] concealed the at the been perceived so the he a the old Gascon gentleman, which never born about to sell
+[RNN] iny,
+and within the sun, but a pond was so reasonable that the substance was
+c
+[(18, 'it,', 0.6572222222222223), (2, 'it', 0.5775), (12, 'if', 0.5483333333333333), (0, 'it;', 0.5277777777777778), (4, 'die', 0.5172222222222222), (24, 'it', 0.5133333333333334), (6, 'and', 0.5119444444444444), (29, 'an', 0.49875)]
+iny, -> it,
+[SEED] the at the been perceived so the he a the old Gascon gentleman, which never born about to sell it,
