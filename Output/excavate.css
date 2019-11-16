@@ -1,0 +1,22 @@
+body {
+	background-image: url('test_bg_dark.jpg');
+	margin: 2em;	
+}
+
+p {
+	color: #393939;
+}
+
+pre {
+	color: #393939;
+}
+
+ol {
+	color: #393939;
+}
+
+
+span.exc {
+	background-color: #ffffff;
+	color: #900000;
+}

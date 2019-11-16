@@ -2,10 +2,12 @@
 
 const htmlparser2 = require("htmlparser2");
 const fs = require('fs');
+const mustache = require('mustache');
 
-const WORD_LIST = './from_excavate.json';
-const HTML_SOURCE = './anatomy_of_melancholy.html';
-const HTML_OUT = './excavate.html';
+const WORD_LIST = '../Input/from_excavate.json';
+const HTML_SOURCE = '../Input/anatomy_of_melancholy.html';
+const HTML_TEMPLATE = '../Input/template.html';
+const HTML_OUT = '../Output/excavate.html';
 
 
 
@@ -14,23 +16,38 @@ function highlightWords(wordlist, source, dest) {
     let i = 0;
     var words = wordlist['words'];
 
+
     const parser = new htmlparser2.Parser(
         {
             onopentag(name, attribs) {
-                outhtml += '<' + name + '>';
+                const atts = [];
+                Object.keys(attribs).forEach((k) => {
+                    atts.push(`${k}="${attribs[k]}"`);
+                })
+                if( atts.length > 0 ) {
+                    outhtml += `<${name} ${atts}>`;
+                } else {
+                    outhtml += `<${name}>`;
+                }
             },
             ontext(text) {
                 const ws = text.split(/\s+/);
                 ws.map((w) => {
                     if( w ) {
                         if( words.length > 0 ) {
-                            if( w.match('^' + words[0]) ) {
+                            const next_word = words[0][1];
+                            if( w.match('^' + next_word) ) {
                                 outhtml += '<span class="exc">' + w + '</span> ';
-                                console.log(words[0]);
                                 words.shift();
                             } else {
                                 outhtml += w + ' ';
                             }
+                        } else {
+                            outhtml += w + ' ';
+                        }
+                        i++;
+                        if( i % 1000 === 0 ) {
+                            console.log(`${i} words...`);
                         }
                     }
                 });
@@ -52,13 +69,27 @@ function highlightWords(wordlist, source, dest) {
     }).on('end', () => {
         parser.end();
 
+        writeOutput(dest, outhtml);
+    });
+}
+
+
+function writeOutput(dest, html) {
+    fs.readFile(HTML_TEMPLATE, 'utf8', (err, template) => {
+        if( err ) {
+            console.log("Template load error ");
+            console.log(err);
+            process.exit(-1);
+        }
+        const outhtml = mustache.render(template, { body: html });
         fs.writeFile(dest, outhtml, (err) => {
             if( err ) {
                 console.log("error writing ", err);
             } else {
-                console.log("Done.");
+                console.log("Wrote output to " + dest);
             }
         })
+
     })
 }
 

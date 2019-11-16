@@ -8,10 +8,10 @@ TODO
 
 ## Final TODO
 
-* consolidate the input and output data in this directory
+* consolidate the input and output data in this directory -- done
 
-* postprocessing - markup words from the text
+* postprocessing - markup words from the text -- started but conks out when it runs out of source text
 
 * postprocessing - pagination
 
-* postprocessing - use a Musketeers image as obscure background
+* postprocessing - use a Musketeers image as obscure background? -- Can do, needs refining

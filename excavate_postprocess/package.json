@@ -9,6 +9,7 @@
   "author": "Mike Lynch",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "htmlparser2": "^4.0.0"
+    "htmlparser2": "^4.0.0",
+    "mustache": "^3.1.0"
   }
 }
