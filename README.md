@@ -5,10 +5,8 @@ Excavate is a NaNoGenMo project to unearth a hidden narrative from one text usin
 
 ## Dependencies
 
-[J C Johnson's torch-rnn](https://github.com/jcjohnson/torch-rnn)
+[My fork of J C Johnson's torch-rnn](https://github.com/spikelynch/torch-rnn/tree/feature-excavate)
 
-Python libraries
+node.js and npm for the postprocessing script in excavate_postprocess
 
-* nltk
-* fuzzywuzzy
 
