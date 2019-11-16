@@ -10,8 +10,13 @@ TODO
 
 * consolidate the input and output data in this directory -- done
 
-* postprocessing - markup words from the text -- started but conks out when it runs out of source text
+* generation -- experiment with lookahead length and long runs
+
+* generation -- dump the text and wordlist as separate output files
+
+* postprocessing - markup words from the text -- // not doing partial matches correctly
 
 * postprocessing - pagination
 
 * postprocessing - use a Musketeers image as obscure background? -- Can do, needs refining
+

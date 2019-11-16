@@ -4,7 +4,7 @@ const htmlparser2 = require("htmlparser2");
 const fs = require('fs');
 const mustache = require('mustache');
 
-const WORD_LIST = '../Input/from_excavate.json';
+const WORD_LIST = '../Input/test.10000.json';
 const HTML_SOURCE = '../Input/anatomy_of_melancholy.html';
 const HTML_TEMPLATE = '../Input/template.html';
 const HTML_OUT = '../Output/excavate.html';
@@ -36,8 +36,9 @@ function highlightWords(wordlist, source, dest) {
                     if( w ) {
                         if( words.length > 0 ) {
                             const next_word = words[0][1];
-                            if( w.match('^' + next_word) ) {
-                                outhtml += '<span class="exc">' + w + '</span> ';
+                            const m = w.match('^' + next_word + '(.*)');
+                            if ( m ) {
+                                outhtml += '<span class="exc">' + next_word + '</span>' + m[1] + ' ';
                                 words.shift();
                             } else {
                                 outhtml += w + ' ';
@@ -47,7 +48,7 @@ function highlightWords(wordlist, source, dest) {
                         }
                         i++;
                         if( i % 1000 === 0 ) {
-                            console.log(`${i} words...`);
+//                            console.log(`${i} words...`);
                         }
                     }
                 });
