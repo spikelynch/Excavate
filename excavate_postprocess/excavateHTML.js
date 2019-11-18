@@ -18,7 +18,7 @@ function checkWords(wordlist) {
         const i = wi[0];
         const w = wi[1];
         if( i <= j ) {
-            console.log(`Removed duplicate ${i} ${w}`)
+            //console.log(`Removed duplicate ${i} ${w}`)
         } else {
             newList.push(wi);
             j = wi[0];
@@ -51,15 +51,24 @@ function highlightWords(wordlist, source, dest) {
             ontext(text) {
                 const ws = text.split(/\s+/);
                 ws.map((w) => {
+                    i++;
                     if( w ) {
-                        i++;
+                        //console.log(`w> ${i} ${w}`);
                         if( words.length > 0 ) {
+                            const next_index = words[0][0];
                             const next_word = words[0][1];
-                            const m = w.match('^' + next_word + '(.*)');
-                            if ( m ) {
-                                console.log(`M> ${words[0][0]} ${next_word} / ${i} ${w}`);
-                                outhtml += '<span class="exc">' + next_word + '</span>' + m[1] + ' ';
-                                words.shift();
+//                            const m = w.match('^' + next_word + '(.*)');
+                            if ( next_index === i ) {
+                                const m = w.match('^' + next_word + '(.*)');
+                                if( m ) {
+                                    //console.log(`M> ${next_index} ${next_word} / ${i} ${w}`);
+                                    outhtml += '<span class="exc">' + next_word + '</span>' + m[1] + ' ';
+                                    words.shift();
+                                } else {
+                                    console.log(`Word mismatch: [ ${next_index}, ${next_word} ] ~= [ ${i}, ${w} ]`);
+                                    process.exit();
+                                    words.shift();
+                                }
                             } else {
                                 outhtml += w + ' ';
                             }
@@ -97,15 +106,29 @@ function highlightWords(wordlist, source, dest) {
 function extractWords(source, dest) {
     const words = [];
     let i = 0;
-
+    let outhtml = '';
     const parser = new htmlparser2.Parser(
         {
+            onopentag(name, attribs) {
+                const atts = [];
+                Object.keys(attribs).forEach((k) => {
+                    atts.push(`${k}="${attribs[k]}"`);
+                })
+                if( atts.length > 0 ) {
+                    outhtml += `<${name} ${atts}>`;
+                } else {
+                    outhtml += `<${name}>`;
+                }
+            },
             ontext(text) {
                 const ws = text.split(/\s+/);
                 ws.map((w) => {
                     i++;
                     words.push([ i, w ])
                 });
+            },
+            onclosetag(tagname) {
+                outhtml += '</' + tagname + '>';
             }
         },
         { decodeEntities: true }
@@ -168,10 +191,10 @@ const args = parser.parseArgs();
 if( args.extract ) {
     extractWords(args.primary, args.extract);
 } else {
-
-    fs.readFile(DEFAULT_IN, 'utf8', (err, data) => {
+    console.log("Reading words from " + args.wordlist);
+    fs.readFile(args.wordlist, 'utf8', (err, data) => {
         if( err ) {
-            console.log("Error reading " + DEFAULT_IN);
+            console.log("Error reading " + args.wordlist);
             console.log(err);
             process.exit(-1);
         }
