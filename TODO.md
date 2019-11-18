@@ -22,6 +22,8 @@ TODO
 
 ## Debugging
 
-Get the vocab from the same HTML used to display it - to stop the overshooting problem
+* Get the vocab from the same HTML used to display it - to stop the overshooting problem
 
-Short lookaheads produce bad results, might have to loop through the source text
+* Short lookaheads produce bad results, might have to loop through the source text
+
+* Why does the excavate.lau routine stutter so much with short lookaheads?

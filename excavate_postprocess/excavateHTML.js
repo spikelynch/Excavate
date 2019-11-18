@@ -57,7 +57,7 @@ function highlightWords(wordlist, source, dest) {
                             const next_word = words[0][1];
                             const m = w.match('^' + next_word + '(.*)');
                             if ( m ) {
-                                //console.log(`M> ${words[0][0]} ${next_word} / ${i} ${w}`);
+                                console.log(`M> ${words[0][0]} ${next_word} / ${i} ${w}`);
                                 outhtml += '<span class="exc">' + next_word + '</span>' + m[1] + ' ';
                                 words.shift();
                             } else {
@@ -96,12 +96,16 @@ function highlightWords(wordlist, source, dest) {
 
 function extractWords(source, dest) {
     const words = [];
+    let i = 0;
 
     const parser = new htmlparser2.Parser(
         {
             ontext(text) {
                 const ws = text.split(/\s+/);
-                words.push(...ws);
+                ws.map((w) => {
+                    i++;
+                    words.push([ i, w ])
+                });
             }
         },
         { decodeEntities: true }
