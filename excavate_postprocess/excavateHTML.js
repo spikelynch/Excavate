@@ -5,7 +5,7 @@ const fs = require('fs');
 const mustache = require('mustache');
 const ArgumentParser = require('argparse').ArgumentParser;
 
-const DEFAULT_IN = '../Samples/long4.json';
+const DEFAULT_IN = '../Samples/excavate.json';
 const DEFAULT_VOCAB = '../Input/anatomy_of_melancholy.html';
 const HTML_TEMPLATE = '../Input/template.html';
 const DEFAULT_OUT = '../Output/excavate_test.html';
@@ -109,27 +109,27 @@ function extractWords(source, dest) {
     let outhtml = '';
     const parser = new htmlparser2.Parser(
         {
-            onopentag(name, attribs) {
-                const atts = [];
-                Object.keys(attribs).forEach((k) => {
-                    atts.push(`${k}="${attribs[k]}"`);
-                })
-                if( atts.length > 0 ) {
-                    outhtml += `<${name} ${atts}>`;
-                } else {
-                    outhtml += `<${name}>`;
-                }
-            },
+            // onopentag(name, attribs) {
+            //     const atts = [];
+            //     Object.keys(attribs).forEach((k) => {
+            //         atts.push(`${k}="${attribs[k]}"`);
+            //     })
+            //     if( atts.length > 0 ) {
+            //         outhtml += `<${name} ${atts}>`;
+            //     } else {
+            //         outhtml += `<${name}>`;
+            //     }
+            // },
             ontext(text) {
                 const ws = text.split(/\s+/);
                 ws.map((w) => {
                     i++;
                     words.push([ i, w ])
                 });
-            },
-            onclosetag(tagname) {
-                outhtml += '</' + tagname + '>';
             }
+            // onclosetag(tagname) {
+            //     outhtml += '</' + tagname + '>';
+            // }
         },
         { decodeEntities: true }
     );
@@ -143,13 +143,17 @@ function extractWords(source, dest) {
         }
     }).on('end', () => {
         parser.end();
-        fs.writeFile(dest, JSON.stringify({ words: words }, null, 4), (err) => {
-            if( err ) {
-                console.log("Error writing to " + dest);
-                console.log(err);
-                process.exit(-1);
-            }
-        });
+        try {
+            const vocab_out = fs.createWriteStream(dest);
+            words.map((iw) => {
+                vocab_out.write(`${iw[0]},${iw[1]}\n`);
+            });
+            vocab_out.end();
+        } catch ( err ) {
+            console.log("Error writing to " + dest);
+            console.log(err);
+            process.exit(-1);
+        }
     });
 }
 
