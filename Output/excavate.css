@@ -1,22 +1,42 @@
 body {
-	background-image: url('test_bg_dark.jpg');
-	margin: 2em;	
+	background: url('bg_dark.jpg');
+	margin: 2em;
 }
 
-p {
-	color: #393939;
+body.neutral {
+	background: #202020;
+	margin: 2em;
 }
 
-pre {
+
+p, li, code, pre {
 	color: #393939;
+	font-family: Baskerville, serif;
+	font-size: 18pt;
 }
+
+p.nav {
+	font-size: 14pt;
+}
+
 
 ol {
 	color: #393939;
+	font-family: Baskerville, serif;
 }
 
 
 span.exc {
 	background-color: #ffffff;
 	color: #900000;
+}
+
+div.intro, div.raw {
+	background-color: #ffffff;
+	color: #900000;
+	padding: 2em;
+}
+
+table {
+	border-spacing: 3em 0em;
 }

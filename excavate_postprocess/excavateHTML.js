@@ -53,15 +53,12 @@ function highlightWords(wordlist, source, dest) {
                 ws.map((w) => {
                     i++;
                     if( w ) {
-                        //console.log(`w> ${i} ${w}`);
                         if( words.length > 0 ) {
                             const next_index = words[0][0];
                             const next_word = words[0][1];
-//                            const m = w.match('^' + next_word + '(.*)');
                             if ( next_index === i ) {
                                 const m = w.match('^' + next_word + '(.*)');
                                 if( m ) {
-                                    //console.log(`M> ${next_index} ${next_word} / ${i} ${w}`);
                                     outhtml += '<span class="exc">' + next_word + '</span>' + m[1] + ' ';
                                     words.shift();
                                 } else {
