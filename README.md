@@ -57,6 +57,8 @@ The output HTML will look something like this
 
 ![A darkened text with highlighted red text embedded in it](Tender_Fort.png)    
 
+This stuff is not at all polished - note that what was "coloræs" in the plain text output is "color s" in the HTML version, probably because of a Unicode smart quote.
+
 ## Dependencies
 
 [My fork of J C Johnson's torch-rnn](https://github.com/spikelynch/torch-rnn/)
